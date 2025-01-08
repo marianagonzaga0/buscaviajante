@@ -16,13 +16,4 @@ O **BuscaViajante** é uma plataforma abrangente que auxilia usuários a encontr
 - **Gerenciamento de reservas:**  
   Inclui funcionalidades para adicionar, atualizar e cancelar reservas de voos, hotéis e carros alugados.  
 
-## Como Utilizar  
-
-Os usuários podem acessar o **BuscaViajante** pela plataforma online, onde podem:  
-- Realizar pesquisas personalizadas de acordo com suas preferências de viagem.  
-- Explorar as melhores opções de voos, hotéis e aluguel de carros.  
-- Gerenciar todas as suas reservas com facilidade e eficiência.  
-
----
-
-Com o **BuscaViajante**, planejar sua viagem nunca foi tão simples! ✈️ 🏨 🚗  
+ 
